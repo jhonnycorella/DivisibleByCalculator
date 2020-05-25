@@ -1,0 +1,11 @@
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.exe
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.deps.json
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.runtimeconfig.json
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.runtimeconfig.dev.json
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.dll
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\bin\Debug\netcoreapp3.1\DivisibleByCalculator.pdb
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\obj\Debug\netcoreapp3.1\DivisibleByCalculator.AssemblyInfoInputs.cache
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\obj\Debug\netcoreapp3.1\DivisibleByCalculator.AssemblyInfo.cs
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\obj\Debug\netcoreapp3.1\DivisibleByCalculator.dll
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\obj\Debug\netcoreapp3.1\DivisibleByCalculator.pdb
+C:\Users\jhonn\Documents\Personal Repositories\DivisibleByCalculator\DivisibleByCalculator\obj\Debug\netcoreapp3.1\DivisibleByCalculator.genruntimeconfig.cache
